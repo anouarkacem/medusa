@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.17.2
+
+### Patch Changes
+
+- [#5281](https://github.com/medusajs/medusa/pull/5281) [`69cf7215f`](https://github.com/medusajs/medusa/commit/69cf7215f1f730ffb332129e65211470be1f88f1) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa, types): Mark properties as nullable to reflect their correct types
+
+- [#5247](https://github.com/medusajs/medusa/pull/5247) [`ec27d02d9`](https://github.com/medusajs/medusa/commit/ec27d02d9951558f024fc154a03e9d4db56f0354) Thanks [@DidierGuyon](https://github.com/DidierGuyon)! - Fixed filter statement in partitionItems\_ method of Fulfillment Service
+
+- [#5301](https://github.com/medusajs/medusa/pull/5301) [`66413d094`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9) Thanks [@srindom](https://github.com/srindom)! - fix: move create inventory workflow to @medusajs/workflows
+
+- Updated dependencies [[`378ca1b36`](https://github.com/medusajs/medusa/commit/378ca1b36e909a67e39c69ea5ca94ec58a345878), [`b62af612c`](https://github.com/medusajs/medusa/commit/b62af612c7baa244075e546c949b89c4589bd2cf), [`66413d094`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9)]:
+  - @medusajs/utils@1.10.4
+  - @medusajs/link-modules@0.2.1
+  - @medusajs/modules-sdk@1.12.1
+  - @medusajs/workflows@0.2.4
+
 ## 1.17.1
 
 ### Patch Changes
